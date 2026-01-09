@@ -12,7 +12,6 @@ trading data and the Bitcoin Fear & Greed Index.
 ## Tools
 - Python
 - Pandas
-- Matplotlib
 
 ## Notes
 Due to the large size of the historical dataset, only relevant columns were used
